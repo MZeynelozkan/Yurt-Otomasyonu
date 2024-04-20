@@ -1,12 +1,22 @@
 :::Dormitory Automation Installation Guide:::
+
+
 :::Applications You Should Have Installed on Your Computer:::
+
 --MSSQL Express and SSMS.--
+
 :::Installation Steps:::
+
 1)Download MSSQL Express to your computer.
+
 2)After Installing MSSQL, Download SSMS (SQL Server Management Studio).
+
 3)Then Go to the Directory Where You Installed MSSQL and Select Your Database Server Name in the MSSQL Directory of the 2 Files in the Folder That Says Yurt Database, Then Go Inside the File and Enter the DATA Folder From There and Then Throw Both Files Inside.
+
 4) Open SSMS after you have thrown the files into it. After opening SSMS and connect. After connecting, right click on Databases. After clicking, click Attach and click Add, then select the .mdf file of your database and exit SSMS after making the necessary confirmations.
+
 5)Now in this step, we open our Setup folder in our folder and enter the Debug folder and run YeniYurtSetup and make our installation.
+
 6)After the installation is finished, you can use the program from the shortcut named YeniYurt on the desktop.
 
 
